@@ -1,5 +1,5 @@
 {
-  "name": "@shopify/flash-list",
+  "name": "@flexn-io/shopify-flash-list",
   "version": "1.4.3",
   "keywords": [
     "react-native",
@@ -14,8 +14,8 @@
     "performance"
   ],
   "publishConfig": {
-    "access": "public",
-    "@shopify:registry": "https://registry.npmjs.org/"
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
   },
   "repository": {
     "type": "git",
@@ -84,6 +84,8 @@
     "jestSetup.js"
   ],
   "dependencies": {
+    "@flexn/create": "0.21.1-alpha.1",
+    "@flexn-io/recyclerlistview": "4.2.3",
     "recyclerlistview": "4.2.0",
     "tslib": "2.4.0"
   }
