@@ -2,7 +2,7 @@ import React, { useCallback, useRef } from "react";
 import {
   RecyclerListView,
   RecyclerListViewProps,
-} from "@flexn-io/recyclerlistview";
+} from "@flexn/recyclerlistview";
 
 import { BlankAreaEvent } from "../native/auto-layout/AutoLayoutView";
 import FlashList from "../FlashList";

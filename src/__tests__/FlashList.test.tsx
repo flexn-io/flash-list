@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import { Animated, ScrollView, Text, View } from "react-native";
 import "@quilted/react-testing/matchers";
-import { ProgressiveListView } from "@flexn-io/recyclerlistview";
+import { ProgressiveListView } from "@flexn/recyclerlistview";
 
 import Warnings from "../errors/Warnings";
 import AutoLayoutView from "../native/auto-layout/AutoLayoutView";

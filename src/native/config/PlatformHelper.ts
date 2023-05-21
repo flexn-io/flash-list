@@ -1,4 +1,4 @@
-import { BaseItemAnimator } from "@flexn-io/recyclerlistview";
+import { BaseItemAnimator } from "@flexn/recyclerlistview";
 import { DefaultJSItemAnimator } from "recyclerlistview/dist/reactnative/platform/reactnative/itemanimators/defaultjsanimator/DefaultJSItemAnimator";
 
 const PlatformConfig = {

@@ -3,7 +3,7 @@ import {
   GridLayoutProvider,
   Layout,
   LayoutManager,
-} from "@flexn-io/recyclerlistview";
+} from "@flexn/recyclerlistview";
 
 import { FlashListProps } from "./FlashListProps";
 import { AverageWindow } from "./utils/AverageWindow";

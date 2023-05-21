@@ -1,4 +1,4 @@
-import { BaseItemAnimator } from "@flexn-io/recyclerlistview";
+import { BaseItemAnimator } from "@flexn/recyclerlistview";
 
 const PlatformConfig = {
   defaultDrawDistance: 250,

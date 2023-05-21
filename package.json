@@ -1,5 +1,5 @@
 {
-  "name": "@flexn-io/shopify-flash-list",
+  "name": "@flexn/shopify-flash-list",
   "version": "1.4.3",
   "keywords": [
     "react-native",
@@ -14,17 +14,16 @@
     "performance"
   ],
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com",
     "access": "public"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Shopify/flash-list"
+    "url": "https://github.com/flexn-io/flash-list"
   },
   "description": "FlashList is a more performant FlatList replacement",
   "author": "shopify",
   "license": "MIT",
-  "homepage": "https://shopify.github.io/flash-list/",
+  "homepage": "https://github.com/flexn-io/flash-list",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -84,8 +83,7 @@
     "jestSetup.js"
   ],
   "dependencies": {
-    "@flexn/create": "0.21.1-alpha.1",
-    "@flexn-io/recyclerlistview": "4.2.3",
+    "@flexn/recyclerlistview": "4.2.3",
     "recyclerlistview": "4.2.0",
     "tslib": "2.4.0"
   }

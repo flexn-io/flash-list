@@ -1,5 +1,5 @@
 import { ScrollView } from "react-native";
-import { ProgressiveListView } from "@flexn-io/recyclerlistview";
+import { ProgressiveListView } from "@flexn/recyclerlistview";
 
 import FlashList from "../FlashList";
 

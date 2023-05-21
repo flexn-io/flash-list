@@ -1,4 +1,4 @@
-import { Dimension, Layout } from "@flexn-io/recyclerlistview";
+import { Dimension, Layout } from "@flexn/recyclerlistview";
 
 import CustomError from "../errors/CustomError";
 import ExceptionList from "../errors/ExceptionList";

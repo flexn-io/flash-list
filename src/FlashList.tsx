@@ -14,10 +14,10 @@ import {
   RecyclerListView,
   RecyclerListViewProps,
   WindowCorrectionConfig,
-} from "@flexn-io/recyclerlistview";
+} from "@flexn/recyclerlistview";
 import StickyContainer, {
   StickyContainerProps,
-} from "@flexn-io/recyclerlistview/sticky";
+} from "@flexn/recyclerlistview/sticky";
 
 import AutoLayoutView from "./native/auto-layout/AutoLayoutView";
 import CellContainer from "./native/cell-container/CellContainer";
