@@ -1,5 +1,5 @@
 import { BaseItemAnimator } from "@flexn/recyclerlistview";
-import { DefaultJSItemAnimator } from "recyclerlistview/dist/reactnative/platform/reactnative/itemanimators/defaultjsanimator/DefaultJSItemAnimator";
+import { DefaultJSItemAnimator } from "@flexn/recyclerlistview/dist/reactnative/platform/reactnative/itemanimators/defaultjsanimator/DefaultJSItemAnimator";
 
 const PlatformConfig = {
   defaultDrawDistance: 250,
