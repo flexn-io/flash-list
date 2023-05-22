@@ -84,7 +84,6 @@
   ],
   "dependencies": {
     "@flexn/recyclerlistview": "4.2.4",
-    "recyclerlistview": "4.2.0",
     "tslib": "2.4.0"
   }
 }
