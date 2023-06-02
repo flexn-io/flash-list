@@ -839,10 +839,10 @@
     minimatch "^3.1.2"
     strip-json-comments "^3.1.1"
 
-"@flexn/recyclerlistview@4.2.4":
-  version "4.2.4"
-  resolved "https://registry.npmjs.org/@flexn/recyclerlistview/-/recyclerlistview-4.2.4.tgz#c98a6c043b55600831312a0412345147e3c0fdc5"
-  integrity sha512-T2Udaccq8UVVcQfkTMRJhnCZZ1qIqcfBhixkEzczY6Fe0F96Yr7fT8RSSpawr2xey/K9XLy22R6rAQkt+0KVOg==
+"@flexn/recyclerlistview@4.2.5":
+  version "4.2.5"
+  resolved "https://registry.yarnpkg.com/@flexn/recyclerlistview/-/recyclerlistview-4.2.5.tgz#5fadfd1605f3428b7cd4f010029aa7e6c5123525"
+  integrity sha512-ut80iCF32mZKw4+bC9PjArnOxklE+f45QgwGjybOoitcYjlom9BIeC9hE6N13Q30KFnrd2XwRSbZEhtH4PVVGg==
   dependencies:
     lodash.debounce "4.0.8"
     prop-types "15.8.1"

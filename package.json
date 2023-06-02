@@ -83,7 +83,7 @@
     "jestSetup.js"
   ],
   "dependencies": {
-    "@flexn/recyclerlistview": "4.2.4",
+    "@flexn/recyclerlistview": "4.2.5",
     "tslib": "2.4.0"
   }
 }
