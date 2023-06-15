@@ -332,4 +332,6 @@ export interface FlashListProps<TItem> extends ScrollViewProps {
    * `false` again.
    */
   disableAutoLayout?: boolean;
+
+  onItemLayout: (index: number) => void;
 }
